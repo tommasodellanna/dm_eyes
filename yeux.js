@@ -1,9 +1,9 @@
 
 var mx, my;
 
-var eye_b = "https://cloud.githubusercontent.com/assets/9432103/4808358/ae3630ac-5e9f-11e4-8591-68c58a748cc2.png";
-var eye_r = "https://cloud.githubusercontent.com/assets/9432103/4808359/b0895316-5e9f-11e4-8e0c-1e02e604e54e.png";
-var eye_p = "https://cloud.githubusercontent.com/assets/9432103/4808361/b25e09ac-5e9f-11e4-8f40-04145e8d4c54.png";
+var eye_b = "http://oi57.tinypic.com/14e1imq.jpg";
+var eye_r = "http://oi59.tinypic.com/1j3r46.jpg";
+var eye_p = "http://oi59.tinypic.com/2s1liis.jpg";
 
 var all = [];
 
