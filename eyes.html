@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Les Yeux</title>  	
+ 	<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>  
+	<script src="js/yeux.js"></script>
+  <style type="text/css">	
+  	body {
+			background-color: #00F;
+		}
+		.eyes {
+			position: absolute;
+		}
+		#eye0 {
+			left: 150px;
+			top: 150px;
+		}
+		#eye1 {
+			left: 550px;
+			top: 350px;
+		}
+
+		#eye2 {
+			left: 550px;
+			top: 550px;
+		}
+
+  </style>  
+</head>
+<body>
+<h1>Les Deux Yeux</h1>
+<div class="eyes" id="eye0">
+	<canvas id="eye0_canvas" width="238" height="238"></canvas>    
+</div>
+<div class="eyes" id="eye1">
+	<canvas id="eye1_canvas" width="120" height="120"></canvas>    
+</div>
+
+<div class="eyes" id="eye2">
+	<canvas id="eye2_canvas" width="400" height="400"></canvas>    
+</div>
+
+</body>
+</html>
