@@ -1,9 +1,9 @@
 
 var mx, my;
 
-var eye_b = "img/eye_base.png";
-var eye_r = "img/eye_reflection.png";
-var eye_p = "img/pupil.png";
+var eye_b = "https://cloud.githubusercontent.com/assets/9432103/4808358/ae3630ac-5e9f-11e4-8591-68c58a748cc2.png";
+var eye_r = "https://cloud.githubusercontent.com/assets/9432103/4808359/b0895316-5e9f-11e4-8e0c-1e02e604e54e.png";
+var eye_p = "https://cloud.githubusercontent.com/assets/9432103/4808361/b25e09ac-5e9f-11e4-8f40-04145e8d4c54.png";
 
 var all = [];
 
